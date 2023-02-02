@@ -17,20 +17,20 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['917303439938'] //ur owner number
-global.ownername = "Krishna" //ur owner name
-global.ytname = "YT: Krishna" //ur yt chanel name
-global.socialm = "Krishna" //ur github or insta name
-global.location = "india, Gampaha, Kurunegala" //ur location
+global.ownername = "*Wa.me//༄ᶦᶰᵈ᭄✿ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ*" //ur owner name
+global.ytname = "YT: *Wa.me//༄ᶦᶰᵈ᭄✿ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ*" //ur yt chanel name
+global.socialm = "*Wa.me//༄ᶦᶰᵈ᭄✿ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ*" //ur github or insta name
+global.location = "india, Kolkata, Suraj" //ur location
 
 //bot bomdy 
 global.ownernomer = "917303439938" //ur number
-global.premium = ['94774071805'] //ur premium number
+global.premium = ['917303439938'] //ur premium number
 global.botname = 'Krishna' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.youtube.com/@kaveebroyt5303" //ur website to be displayed
+global.websitex = "https://*Wa.me//༄ᶦᶰᵈ᭄✿ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ*" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARKNERO--V7' //script link
 global.themeemoji = "🐨" //ur theme emoji
-global.packname = "Sticker By Krishna🐨" //ur sticker watermark packname
+global.packname = "Sticker By *Wa.me//༄ᶦᶰᵈ᭄✿ツニ•ᴋ•ʀ•ɪ•⌈s⌉•ʜ•ɴ•ᴀ•ニツ*🐨" //ur sticker watermark packname
 global.author = "Dark Nero\n\n\nA whatsapp bot developed by\n🐨Cyber X Team" //ur sticker watermark author
 
 var _0x2fd240=_0x5d66;function _0x5d66(_0x2ed051,_0xea9c3d){var _0x5c160d=_0x5c16();return _0x5d66=function(_0x5d6646,_0x1ee10e){_0x5d6646=_0x5d6646-0xc6;var _0x7008c7=_0x5c160d[_0x5d6646];return _0x7008c7;},_0x5d66(_0x2ed051,_0xea9c3d);}function _0x5c16(){var _0xb255da=['2jDiFWA','8aWcQnA','113286QJfYpn','6059328QjoMDh','ᴅᴀʀᴋ\x20ɴʀᴏ\x20ɪɴᴄ.','45690fWERUs','14764014AlhUzm','12947WUdmEf','193525bBWOoQ','1547207Yhtbak','3803619dJdWHA','273TMzuoe'];_0x5c16=function(){return _0xb255da;};return _0x5c16();}(function(_0x3d70d1,_0x31d4ac){var _0x20a773=_0x5d66,_0x24c12f=_0x3d70d1();while(!![]){try{var _0x2d4a88=-parseInt(_0x20a773(0xcf))/0x1*(parseInt(_0x20a773(0xc6))/0x2)+-parseInt(_0x20a773(0xd0))/0x3+parseInt(_0x20a773(0xc7))/0x4*(-parseInt(_0x20a773(0xce))/0x5)+parseInt(_0x20a773(0xc8))/0x6*(-parseInt(_0x20a773(0xd1))/0x7)+parseInt(_0x20a773(0xc9))/0x8+-parseInt(_0x20a773(0xcc))/0x9+parseInt(_0x20a773(0xcb))/0xa*(parseInt(_0x20a773(0xcd))/0xb);if(_0x2d4a88===_0x31d4ac)break;else _0x24c12f['push'](_0x24c12f['shift']());}catch(_0xa25d7c){_0x24c12f['push'](_0x24c12f['shift']());}}}(_0x5c16,0xd362a),global['wm']=_0x2fd240(0xca));
